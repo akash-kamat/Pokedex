@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to clone and run
 
-First clone this repo by running: ### `git clone `
-or by downloading from github
+First clone this repo by running: `git clone https://github.com/akash-kamat/Pokedex.git`
+or directly Download the zip file https://github.com/akash-kamat/Pokedex/archive/refs/heads/main.zip
 
 In the project directory, you can run:
 
